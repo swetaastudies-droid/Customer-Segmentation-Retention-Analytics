@@ -1,0 +1,12 @@
+# Power BI temporary/cache files
+*.pbix.autorecover
+*.tmp
+*.bak
+~$*.xlsx
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Keep the finished .pbix, data files, screenshots, and documentation in the project.

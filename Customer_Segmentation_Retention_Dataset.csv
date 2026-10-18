@@ -1,0 +1,151 @@
+﻿Customer ID,Customer Name,Age,Gender,City/Region,Occupation,Income Level,Join Date,Last Purchase Date,Purchase Frequency,Average Order Value,Total Spend,Preferred Product Category,Purchase Channel (Online/Offline/App),Customer Type (New/Returning),Engagement Score,Satisfaction Score,Retention Status (Retained/At Risk/Churned),Customer Segment,Loyalty Tier
+CUST0001,Nisha Nair,41,Female,Ahmedabad,Student,Lower-Middle,2023-10-13,2026-09-11,1,1305.0,1305.0,Electronics,Online,New,83,5,Retained,New Customers,Bronze
+CUST0002,Priya Shetty,33,Female,Kolkata,Healthcare Professional,Upper-Middle,2026-01-21,2026-01-21,1,1237.97,1237.97,Books & Stationery,Online,New,71,4,Churned,Hibernating,Bronze
+CUST0003,Rohan Singh,30,Non-binary,Hyderabad,Healthcare Professional,High,2024-11-20,2026-03-27,3,1897.72,5693.16,Books & Stationery,Online,Returning,34,2,Churned,At Risk,Bronze
+CUST0004,Saanvi Bose,38,Female,Kochi,Teacher,Middle,2026-07-11,2026-07-11,1,491.61,491.61,Fashion,App,New,11,2,At Risk,At Risk,Bronze
+CUST0005,Aditya Menon,24,Female,Kochi,Student,Middle,2025-01-17,2026-06-04,6,1673.77,10042.62,Electronics,Offline,Returning,26,2,At Risk,Need Attention,Silver
+CUST0006,Diya Bose,52,Male,Hyderabad,Engineer,Middle,2026-08-03,2026-08-03,8,1243.67,9949.36,Fashion,App,Returning,73,2,Retained,Loyal Customers,Silver
+CUST0007,Manoj Singh,30,Prefer not to say,Mumbai,Teacher,Lower-Middle,2026-03-07,2026-08-03,12,1496.68,17960.16,Sports & Fitness,Offline,Returning,51,4,Retained,Loyal Customers,Gold
+CUST0008,Kabir Patel,29,Male,Ahmedabad,Consultant,Middle,2026-04-12,2026-10-05,20,1199.39,23987.8,Groceries,Offline,Returning,61,5,Retained,Champions,Gold
+CUST0009,Lavanya Iyer,35,Female,Hyderabad,Homemaker,Lower-Middle,2025-05-14,2025-05-18,2,787.02,1574.04,Groceries,App,Returning,57,2,Churned,Hibernating,Bronze
+CUST0010,Aarav Nair,38,Non-binary,Jaipur,Finance Professional,Low,2025-06-09,2025-08-11,4,479.23,1916.92,Groceries,App,Returning,19,3,Churned,At Risk,Bronze
+CUST0011,Sanjay Das,44,Male,Hyderabad,Finance Professional,Upper-Middle,2026-01-09,2026-07-30,1,1547.28,1547.28,Home & Kitchen,App,New,69,3,Retained,New Customers,Bronze
+CUST0012,Pooja Das,19,Male,Chennai,Healthcare Professional,Upper-Middle,2023-06-11,2026-10-16,4,947.75,3791.0,Groceries,Online,Returning,63,5,Retained,Potential Loyalists,Bronze
+CUST0013,Priya Shetty,39,Prefer not to say,Coimbatore,Consultant,Upper-Middle,2024-02-16,2026-08-29,4,533.96,2135.84,Electronics,Online,Returning,77,3,Retained,Potential Loyalists,Bronze
+CUST0014,Aditya Singh,28,Female,Madurai,Consultant,Lower-Middle,2024-03-27,2026-10-18,1,1971.25,1971.25,Home & Kitchen,Online,New,90,5,Retained,New Customers,Bronze
+CUST0015,Ira Gupta,26,Prefer not to say,Coimbatore,Consultant,Lower-Middle,2026-03-15,2026-08-18,1,1187.89,1187.89,Sports & Fitness,Offline,New,77,5,Retained,New Customers,Bronze
+CUST0016,Rohan Mehta,30,Prefer not to say,Ahmedabad,IT Professional,Middle,2026-08-16,2026-10-15,2,1271.42,2542.84,Beauty & Personal Care,Online,Returning,52,3,Retained,Potential Loyalists,Bronze
+CUST0017,Diya Gupta,44,Prefer not to say,Coimbatore,Teacher,Middle,2026-02-01,2026-10-11,15,2968.86,44532.9,Books & Stationery,Online,Returning,70,5,Retained,Champions,Platinum
+CUST0018,Rohan Krishnan,39,Prefer not to say,Coimbatore,Marketing Executive,High,2023-12-04,2026-10-06,6,987.51,5925.06,Sports & Fitness,App,Returning,78,5,Retained,Loyal Customers,Bronze
+CUST0019,Rahul Krishnan,35,Male,Coimbatore,Student,Lower-Middle,2023-04-30,2026-09-30,5,3329.42,16647.1,Groceries,App,Returning,24,4,Retained,Loyal Customers,Gold
+CUST0020,Priya Kumar,36,Female,Kolkata,Teacher,Upper-Middle,2023-05-21,2026-09-29,12,1194.58,14334.96,Fashion,Offline,Returning,73,2,Retained,Loyal Customers,Silver
+CUST0021,Aadhya Shetty,33,Female,Kochi,Homemaker,Middle,2025-12-06,2026-10-08,3,1713.7,5141.1,Sports & Fitness,Offline,Returning,98,3,Retained,Potential Loyalists,Bronze
+CUST0022,Saanvi Singh,27,Female,Chennai,Engineer,Middle,2026-02-27,2026-10-15,15,1068.52,16027.8,Electronics,App,Returning,88,4,Retained,Loyal Customers,Gold
+CUST0023,Meera Das,30,Male,Delhi,Consultant,Upper-Middle,2026-06-06,2026-06-06,1,1867.39,1867.39,Fashion,Online,New,44,4,At Risk,At Risk,Bronze
+CUST0024,Shreya Nair,28,Male,Mumbai,Student,Middle,2024-12-03,2026-08-05,12,1175.9,14110.8,Books & Stationery,Online,Returning,64,2,Retained,Loyal Customers,Silver
+CUST0025,Nisha Mehta,39,Non-binary,Chennai,IT Professional,Lower-Middle,2023-09-25,2026-09-01,1,1625.52,1625.52,Sports & Fitness,App,New,72,3,Retained,New Customers,Bronze
+CUST0026,Rahul Iyer,20,Non-binary,Madurai,Consultant,Lower-Middle,2023-09-19,2026-10-17,2,1117.27,2234.54,Electronics,Online,Returning,65,3,Retained,Potential Loyalists,Bronze
+CUST0027,Rahul Mehta,34,Male,Coimbatore,Business Owner,High,2023-12-29,2026-07-16,3,1758.52,5275.56,Sports & Fitness,App,Returning,76,3,At Risk,At Risk,Bronze
+CUST0028,Manoj Menon,38,Non-binary,Hyderabad,Sales Executive,Low,2023-03-21,2026-08-18,10,1351.61,13516.1,Books & Stationery,Online,Returning,37,4,Retained,Loyal Customers,Silver
+CUST0029,Aarav Rao,36,Prefer not to say,Pune,Student,Upper-Middle,2024-07-25,2024-11-04,2,4200.0,8400.0,Electronics,Online,Returning,39,3,Churned,Hibernating,Bronze
+CUST0030,Kabir Kumar,35,Non-binary,Chennai,Teacher,Middle,2024-12-08,2024-12-11,1,740.43,740.43,Groceries,Online,New,63,4,Churned,Hibernating,Bronze
+CUST0031,Aadhya Mehta,44,Female,Kolkata,Consultant,Upper-Middle,2026-10-05,2026-10-05,5,853.92,4269.6,Electronics,App,Returning,97,2,Retained,Loyal Customers,Bronze
+CUST0032,Kavya Verma,42,Non-binary,Jaipur,Marketing Executive,Lower-Middle,2024-08-28,2024-11-11,3,4200.0,12600.0,Fashion,Offline,Returning,25,2,Churned,At Risk,Silver
+CUST0033,Kavya Joshi,37,Female,Mumbai,Student,Lower-Middle,2026-04-02,2026-08-07,2,1067.51,2135.02,Beauty & Personal Care,App,Returning,44,4,Retained,Potential Loyalists,Bronze
+CUST0034,Manoj Kumar,24,Female,Mumbai,Consultant,Middle,2026-06-22,2026-10-08,2,1827.08,3654.16,Electronics,Online,Returning,55,5,Retained,Potential Loyalists,Bronze
+CUST0035,Vihaan Shetty,27,Female,Delhi,Marketing Executive,Upper-Middle,2026-03-24,2026-08-03,1,1179.52,1179.52,Sports & Fitness,Online,New,86,3,Retained,New Customers,Bronze
+CUST0036,Lavanya Nair,38,Prefer not to say,Coimbatore,Business Owner,Upper-Middle,2025-11-26,2026-09-14,10,2889.76,28897.6,Sports & Fitness,Offline,Returning,43,4,Retained,Champions,Gold
+CUST0037,Rahul Shetty,38,Non-binary,Delhi,Government Employee,Upper-Middle,2025-10-30,2026-05-10,4,2164.63,8658.52,Home & Kitchen,App,Returning,20,2,At Risk,Need Attention,Silver
+CUST0038,Pooja Gupta,41,Prefer not to say,Jaipur,Healthcare Professional,Lower-Middle,2023-06-08,2026-09-26,4,1657.96,6631.84,Fashion,Online,Returning,76,4,Retained,Potential Loyalists,Silver
+CUST0039,Neha Patel,28,Male,Bengaluru,Marketing Executive,Middle,2026-01-16,2026-08-22,8,1599.97,12799.76,Sports & Fitness,Online,Returning,77,3,Retained,Loyal Customers,Silver
+CUST0040,Shreya Kapoor,56,Prefer not to say,Delhi,IT Professional,High,2024-09-03,2026-05-27,8,1827.32,14618.56,Fashion,Offline,Returning,21,3,At Risk,Need Attention,Silver
+CUST0041,Kabir Mehta,25,Prefer not to say,Chennai,Marketing Executive,Lower-Middle,2025-04-08,2026-09-07,12,2170.9,26050.8,Groceries,Offline,Returning,92,3,Retained,Champions,Gold
+CUST0042,Aarav Reddy,46,Prefer not to say,Hyderabad,Engineer,Lower-Middle,2024-06-16,2026-08-28,12,1766.98,21203.76,Home & Kitchen,App,Returning,86,5,Retained,Champions,Gold
+CUST0043,Pooja Mehta,33,Non-binary,Bengaluru,Engineer,Low,2026-01-09,2026-06-21,6,930.24,5581.44,Books & Stationery,Online,Returning,26,2,At Risk,Need Attention,Bronze
+CUST0044,Ira Rao,35,Female,Madurai,Business Owner,Lower-Middle,2025-08-27,2026-05-08,8,1698.73,13589.84,Fashion,Offline,Returning,47,4,At Risk,Need Attention,Silver
+CUST0045,Harish Nair,36,Male,Mumbai,Teacher,Middle,2024-09-30,2026-09-30,5,3132.05,15660.25,Books & Stationery,Offline,Returning,67,5,Retained,Loyal Customers,Gold
+CUST0046,Ananya Das,42,Female,Madurai,IT Professional,Middle,2025-05-27,2026-09-27,3,878.81,2636.43,Beauty & Personal Care,Online,Returning,52,4,Retained,Potential Loyalists,Bronze
+CUST0047,Meera Chatterjee,33,Male,Kochi,Business Owner,Upper-Middle,2026-08-25,2026-08-25,1,2085.37,2085.37,Books & Stationery,Online,New,80,4,Retained,New Customers,Bronze
+CUST0048,Vikram Reddy,26,Non-binary,Delhi,Healthcare Professional,Upper-Middle,2026-03-13,2026-08-06,3,612.06,1836.18,Beauty & Personal Care,Online,Returning,63,4,Retained,Potential Loyalists,Bronze
+CUST0049,Manoj Gupta,38,Non-binary,Mumbai,Government Employee,Upper-Middle,2024-07-19,2026-10-01,3,709.7,2129.1,Groceries,App,Returning,75,4,Retained,Potential Loyalists,Bronze
+CUST0050,Divya Krishnan,26,Prefer not to say,Delhi,IT Professional,Low,2024-03-29,2026-08-04,4,1532.34,6129.36,Beauty & Personal Care,App,Returning,73,3,Retained,Potential Loyalists,Silver
+CUST0051,Rahul Singh,39,Non-binary,Ahmedabad,Engineer,Lower-Middle,2024-05-29,2026-06-25,15,1916.84,28752.6,Sports & Fitness,Online,Returning,62,4,At Risk,Need Attention,Gold
+CUST0052,Ishaan Krishnan,20,Non-binary,Ahmedabad,Government Employee,High,2025-12-10,2026-09-29,2,840.67,1681.34,Electronics,App,Returning,81,4,Retained,Potential Loyalists,Bronze
+CUST0053,Arjun Gupta,41,Female,Chennai,Consultant,Lower-Middle,2023-09-16,2026-07-24,4,4200.0,16800.0,Beauty & Personal Care,Online,Returning,82,5,Retained,Potential Loyalists,Silver
+CUST0054,Aadhya Gupta,46,Prefer not to say,Bengaluru,Teacher,Middle,2023-06-01,2026-09-30,5,2014.78,10073.9,Home & Kitchen,Online,Returning,66,4,Retained,Loyal Customers,Silver
+CUST0055,Ira Nair,27,Prefer not to say,Madurai,Government Employee,Upper-Middle,2024-04-07,2026-09-24,5,1236.14,6180.7,Beauty & Personal Care,Online,Returning,63,4,Retained,Loyal Customers,Silver
+CUST0056,Varun Iyer,61,Female,Coimbatore,Homemaker,Lower-Middle,2026-09-14,2026-10-16,3,504.22,1512.66,Beauty & Personal Care,Online,Returning,84,2,Retained,Potential Loyalists,Bronze
+CUST0057,Ira Das,30,Non-binary,Ahmedabad,Engineer,Low,2024-04-23,2026-09-01,4,2562.97,10251.88,Sports & Fitness,Online,Returning,73,3,Retained,Potential Loyalists,Silver
+CUST0058,Kabir Patel,28,Female,Chennai,Business Owner,Upper-Middle,2026-05-03,2026-09-25,6,2046.28,12277.68,Sports & Fitness,Online,Returning,58,4,Retained,Loyal Customers,Silver
+CUST0059,Kabir Verma,36,Prefer not to say,Delhi,Teacher,Middle,2025-06-03,2026-09-25,20,983.99,19679.8,Books & Stationery,App,Returning,100,4,Retained,Champions,Gold
+CUST0060,Sneha Sharma,18,Non-binary,Madurai,IT Professional,Upper-Middle,2023-12-25,2026-10-03,5,1560.17,7800.85,Sports & Fitness,App,Returning,60,4,Retained,Loyal Customers,Silver
+CUST0061,Aditya Krishnan,27,Non-binary,Kochi,Finance Professional,Lower-Middle,2023-08-03,2026-09-21,15,1321.99,19829.85,Books & Stationery,App,Returning,81,4,Retained,Champions,Gold
+CUST0062,Aadhya Chatterjee,22,Female,Pune,Student,Lower-Middle,2025-04-07,2026-08-16,1,1171.48,1171.48,Groceries,Online,New,63,3,Retained,New Customers,Bronze
+CUST0063,Lavanya Krishnan,55,Prefer not to say,Chennai,Healthcare Professional,Lower-Middle,2023-09-26,2026-09-19,20,1759.42,35188.4,Groceries,App,Returning,49,5,Retained,Champions,Platinum
+CUST0064,Divya Kumar,59,Non-binary,Kolkata,IT Professional,Middle,2023-07-10,2026-07-05,1,2484.57,2484.57,Sports & Fitness,Online,New,15,2,At Risk,At Risk,Bronze
+CUST0065,Divya Gupta,49,Prefer not to say,Delhi,Engineer,Lower-Middle,2026-02-02,2026-02-02,1,954.11,954.11,Books & Stationery,App,New,50,4,Churned,Hibernating,Bronze
+CUST0066,Krish Verma,25,Non-binary,Chennai,Student,Upper-Middle,2026-04-17,2026-08-06,3,1362.75,4088.25,Groceries,App,Returning,13,3,Retained,Potential Loyalists,Bronze
+CUST0067,Neha Chatterjee,33,Non-binary,Coimbatore,Sales Executive,Lower-Middle,2025-02-23,2026-05-28,6,708.9,4253.4,Books & Stationery,Online,Returning,72,2,At Risk,Need Attention,Bronze
+CUST0068,Karthik Patel,31,Prefer not to say,Chennai,Business Owner,Middle,2026-04-23,2026-07-24,4,1513.09,6052.36,Sports & Fitness,Online,Returning,97,2,Retained,Potential Loyalists,Silver
+CUST0069,Sanjay Patel,48,Female,Delhi,Student,Lower-Middle,2025-03-25,2026-09-12,3,1416.05,4248.15,Sports & Fitness,App,Returning,54,4,Retained,Potential Loyalists,Bronze
+CUST0070,Vihaan Bose,38,Female,Madurai,Teacher,Lower-Middle,2024-08-11,2026-07-08,6,1012.2,6073.2,Electronics,Offline,Returning,44,3,At Risk,Need Attention,Silver
+CUST0071,Divya Das,37,Female,Chennai,Finance Professional,Upper-Middle,2024-08-23,2026-08-25,5,2026.72,10133.6,Books & Stationery,Online,Returning,100,3,Retained,Loyal Customers,Silver
+CUST0072,Diya Reddy,59,Prefer not to say,Madurai,Homemaker,Lower-Middle,2026-04-09,2026-09-03,6,481.23,2887.38,Books & Stationery,Offline,Returning,69,4,Retained,Loyal Customers,Bronze
+CUST0073,Kavya Bose,39,Male,Bengaluru,Engineer,High,2026-04-18,2026-08-08,3,999.76,2999.28,Beauty & Personal Care,App,Returning,68,3,Retained,Potential Loyalists,Bronze
+CUST0074,Ananya Menon,29,Prefer not to say,Madurai,Finance Professional,Middle,2024-08-27,2026-10-18,12,2246.84,26962.08,Books & Stationery,App,Returning,78,3,Retained,Champions,Gold
+CUST0075,Aadhya Shetty,45,Prefer not to say,Mumbai,Healthcare Professional,Middle,2024-12-22,2026-06-25,6,1667.39,10004.34,Sports & Fitness,App,Returning,57,3,At Risk,Need Attention,Silver
+CUST0076,Arjun Nair,26,Female,Mumbai,Engineer,Low,2025-01-17,2026-07-08,2,1034.73,2069.46,Fashion,App,Returning,56,3,At Risk,At Risk,Bronze
+CUST0077,Shreya Pillai,35,Non-binary,Hyderabad,Student,High,2025-09-13,2026-07-28,1,1501.97,1501.97,Books & Stationery,App,New,94,3,Retained,New Customers,Bronze
+CUST0078,Sanjay Joshi,42,Non-binary,Bengaluru,Marketing Executive,Low,2026-01-03,2026-08-19,10,1259.91,12599.1,Home & Kitchen,Online,Returning,68,5,Retained,Loyal Customers,Silver
+CUST0079,Ira Krishnan,45,Female,Madurai,Consultant,Lower-Middle,2026-06-03,2026-06-03,3,2202.68,6608.04,Beauty & Personal Care,Online,Returning,66,3,At Risk,At Risk,Silver
+CUST0080,Aadhya Iyer,43,Non-binary,Delhi,Teacher,Low,2026-01-05,2026-08-24,8,1187.2,9497.6,Fashion,App,Returning,77,4,Retained,Loyal Customers,Silver
+CUST0081,Nisha Nair,37,Prefer not to say,Madurai,Marketing Executive,High,2024-07-26,2026-08-04,2,1953.42,3906.84,Home & Kitchen,Online,Returning,57,5,Retained,Potential Loyalists,Bronze
+CUST0082,Karthik Pillai,24,Non-binary,Chennai,Marketing Executive,Lower-Middle,2023-09-08,2026-05-22,5,722.12,3610.6,Electronics,Online,Returning,63,4,At Risk,Need Attention,Bronze
+CUST0083,Krish Menon,42,Male,Madurai,Healthcare Professional,Low,2026-02-09,2026-06-22,8,1989.4,15915.2,Groceries,Online,Returning,42,2,At Risk,Need Attention,Gold
+CUST0084,Sanjay Patel,36,Male,Kolkata,Student,Upper-Middle,2023-08-14,2026-07-24,8,970.26,7762.08,Groceries,Online,Returning,89,4,Retained,Loyal Customers,Silver
+CUST0085,Diya Gupta,26,Female,Hyderabad,Sales Executive,Middle,2023-08-21,2026-09-13,1,1179.96,1179.96,Groceries,Online,New,79,3,Retained,New Customers,Bronze
+CUST0086,Varun Iyer,26,Non-binary,Delhi,Homemaker,High,2023-05-05,2026-07-25,12,1610.06,19320.72,Electronics,App,Returning,76,3,Retained,Loyal Customers,Gold
+CUST0087,Krish Shetty,30,Male,Bengaluru,Business Owner,Lower-Middle,2026-07-20,2026-08-13,4,1599.79,6399.16,Groceries,Offline,Returning,45,2,Retained,Potential Loyalists,Silver
+CUST0088,Manoj Nair,28,Male,Kochi,Engineer,Upper-Middle,2025-04-27,2026-05-22,3,1252.13,3756.39,Home & Kitchen,App,Returning,48,4,At Risk,At Risk,Bronze
+CUST0089,Meera Patel,45,Prefer not to say,Bengaluru,Teacher,Upper-Middle,2023-07-10,2026-09-11,5,1289.53,6447.65,Home & Kitchen,App,Returning,71,3,Retained,Loyal Customers,Silver
+CUST0090,Rohan Pillai,35,Prefer not to say,Ahmedabad,IT Professional,High,2026-05-14,2026-10-09,6,1201.39,7208.34,Fashion,App,Returning,77,3,Retained,Loyal Customers,Silver
+CUST0091,Meera Bose,41,Non-binary,Bengaluru,Student,Middle,2025-05-28,2026-09-21,15,3271.51,49072.65,Books & Stationery,App,Returning,70,4,Retained,Champions,Platinum
+CUST0092,Aarav Kumar,43,Non-binary,Ahmedabad,Student,High,2024-12-19,2026-10-18,8,1129.27,9034.16,Electronics,Online,Returning,76,4,Retained,Loyal Customers,Silver
+CUST0093,Priya Rao,37,Prefer not to say,Kochi,Engineer,Middle,2025-01-27,2025-11-26,1,920.43,920.43,Books & Stationery,Offline,New,43,3,Churned,Hibernating,Bronze
+CUST0094,Karthik Reddy,51,Non-binary,Delhi,Homemaker,Middle,2026-05-28,2026-10-04,3,2386.54,7159.62,Home & Kitchen,App,Returning,100,3,Retained,Potential Loyalists,Silver
+CUST0095,Sneha Krishnan,45,Non-binary,Chennai,Healthcare Professional,Middle,2026-05-12,2026-06-23,8,1557.5,12460.0,Home & Kitchen,Online,Returning,82,2,At Risk,Need Attention,Silver
+CUST0096,Aarav Krishnan,26,Prefer not to say,Hyderabad,Business Owner,Middle,2024-04-16,2026-08-13,8,1012.66,8101.28,Beauty & Personal Care,Online,Returning,33,3,Retained,Loyal Customers,Silver
+CUST0097,Vikram Reddy,27,Non-binary,Madurai,Marketing Executive,Middle,2026-08-04,2026-10-16,2,1529.53,3059.06,Groceries,Offline,Returning,78,5,Retained,Potential Loyalists,Bronze
+CUST0098,Divya Pillai,46,Female,Kochi,Teacher,Lower-Middle,2026-04-21,2026-07-09,2,1025.26,2050.52,Books & Stationery,Online,Returning,26,3,At Risk,At Risk,Bronze
+CUST0099,Priya Nair,21,Male,Pune,Finance Professional,Upper-Middle,2026-08-14,2026-09-22,2,3855.68,7711.36,Fashion,App,Returning,93,3,Retained,Potential Loyalists,Bronze
+CUST0100,Nisha Reddy,18,Male,Jaipur,Engineer,Middle,2026-02-28,2026-08-11,5,2964.99,14824.95,Groceries,Online,Returning,69,5,Retained,Loyal Customers,Silver
+CUST0101,Nisha Singh,18,Male,Delhi,Teacher,Middle,2026-07-17,2026-07-29,1,1012.67,1012.67,Beauty & Personal Care,Offline,New,72,4,Retained,New Customers,Bronze
+CUST0102,Aadhya Pillai,31,Non-binary,Bengaluru,Homemaker,Upper-Middle,2023-07-04,2026-08-10,15,1983.4,29751.0,Sports & Fitness,App,Returning,52,4,Retained,Loyal Customers,Gold
+CUST0103,Saanvi Kapoor,37,Male,Pune,Government Employee,Middle,2023-11-05,2024-10-31,1,1868.59,1868.59,Sports & Fitness,Online,New,55,2,Churned,Hibernating,Bronze
+CUST0104,Ira Chatterjee,19,Prefer not to say,Kolkata,Consultant,Middle,2025-01-15,2026-06-13,6,2843.3,17059.8,Electronics,App,Returning,48,2,At Risk,Need Attention,Gold
+CUST0105,Nisha Singh,53,Female,Pune,Teacher,Middle,2025-03-02,2026-10-09,1,1500.6,1500.6,Sports & Fitness,Online,New,93,4,Retained,New Customers,Bronze
+CUST0106,Meera Das,58,Prefer not to say,Hyderabad,Government Employee,Upper-Middle,2023-06-23,2025-11-07,3,3697.59,11092.77,Books & Stationery,App,Returning,38,4,Churned,At Risk,Silver
+CUST0107,Karthik Verma,43,Female,Jaipur,Homemaker,Middle,2025-01-11,2026-08-25,8,2989.16,23913.28,Fashion,Online,Returning,54,4,Retained,Champions,Gold
+CUST0108,Arjun Patel,47,Female,Mumbai,Teacher,Middle,2026-01-10,2026-04-11,3,535.23,1605.69,Groceries,Online,Returning,21,1,Churned,At Risk,Bronze
+CUST0109,Diya Kumar,33,Male,Ahmedabad,Engineer,Low,2025-01-16,2026-06-19,8,2089.43,16715.44,Fashion,Offline,Returning,70,3,At Risk,Need Attention,Gold
+CUST0110,Kavya Krishnan,53,Male,Pune,Homemaker,High,2025-06-21,2026-07-30,20,659.15,13183.0,Books & Stationery,Online,Returning,41,4,Retained,Loyal Customers,Silver
+CUST0111,Varun Patel,40,Non-binary,Chennai,Homemaker,Middle,2025-01-30,2026-10-01,8,1383.01,11064.08,Home & Kitchen,Offline,Returning,34,4,Retained,Loyal Customers,Silver
+CUST0112,Priya Patel,21,Prefer not to say,Bengaluru,Healthcare Professional,Upper-Middle,2024-12-16,2026-09-16,2,2035.14,4070.28,Electronics,Online,Returning,78,3,Retained,Potential Loyalists,Bronze
+CUST0113,Aarav Singh,30,Female,Ahmedabad,Homemaker,Lower-Middle,2023-10-27,2026-06-13,4,786.37,3145.48,Groceries,Online,Returning,41,4,At Risk,Need Attention,Bronze
+CUST0114,Aditya Sharma,25,Non-binary,Coimbatore,Business Owner,Middle,2026-05-31,2026-10-02,1,1857.94,1857.94,Beauty & Personal Care,Offline,New,62,3,Retained,New Customers,Bronze
+CUST0115,Varun Chatterjee,34,Female,Bengaluru,Engineer,Middle,2023-02-03,2026-09-28,1,796.81,796.81,Home & Kitchen,Online,New,62,3,Retained,New Customers,Bronze
+CUST0116,Rohan Kumar,57,Female,Kolkata,Finance Professional,Low,2025-12-13,2026-08-16,4,1435.68,5742.72,Sports & Fitness,Online,Returning,59,4,Retained,Potential Loyalists,Bronze
+CUST0117,Meera Gupta,34,Female,Pune,Teacher,Middle,2026-09-07,2026-09-28,4,1246.96,4987.84,Fashion,App,Returning,83,4,Retained,Potential Loyalists,Bronze
+CUST0118,Karthik Chatterjee,30,Prefer not to say,Jaipur,Business Owner,Upper-Middle,2023-05-10,2026-09-26,8,1025.87,8206.96,Electronics,Online,Returning,67,2,Retained,Loyal Customers,Silver
+CUST0119,Kavya Verma,19,Prefer not to say,Kolkata,Engineer,Lower-Middle,2026-08-17,2026-08-17,2,2986.27,5972.54,Books & Stationery,Online,Returning,100,3,Retained,Potential Loyalists,Bronze
+CUST0120,Shreya Joshi,42,Prefer not to say,Kochi,Finance Professional,High,2025-10-13,2025-12-09,4,1671.02,6684.08,Electronics,Offline,Returning,98,4,Churned,At Risk,Silver
+CUST0121,Pooja Kumar,34,Non-binary,Pune,Teacher,Low,2026-09-15,2026-10-09,1,832.52,832.52,Sports & Fitness,App,New,43,4,Retained,New Customers,Bronze
+CUST0122,Meera Shetty,27,Prefer not to say,Mumbai,Homemaker,High,2023-04-28,2026-08-06,8,644.04,5152.32,Fashion,App,Returning,60,3,Retained,Loyal Customers,Bronze
+CUST0123,Arjun Shetty,54,Prefer not to say,Chennai,Business Owner,Low,2026-08-14,2026-08-14,6,2286.78,13720.68,Home & Kitchen,Online,Returning,71,5,Retained,Loyal Customers,Silver
+CUST0124,Lavanya Reddy,36,Male,Kolkata,Finance Professional,Middle,2026-08-23,2026-10-10,4,876.81,3507.24,Electronics,Online,Returning,99,4,Retained,Potential Loyalists,Bronze
+CUST0125,Kabir Chatterjee,24,Male,Madurai,Student,Upper-Middle,2025-10-02,2026-10-12,6,1268.15,7608.9,Electronics,App,Returning,56,2,Retained,Loyal Customers,Silver
+CUST0126,Sanjay Singh,46,Non-binary,Ahmedabad,Teacher,Middle,2024-08-17,2025-10-20,3,4024.59,12073.77,Books & Stationery,Online,Returning,17,3,Churned,At Risk,Silver
+CUST0127,Ira Nair,28,Male,Hyderabad,Healthcare Professional,Upper-Middle,2023-02-23,2026-01-16,3,1077.16,3231.48,Groceries,App,Returning,32,2,Churned,At Risk,Bronze
+CUST0128,Aditya Das,36,Prefer not to say,Ahmedabad,Sales Executive,Middle,2025-04-21,2025-09-15,3,891.56,2674.68,Beauty & Personal Care,Offline,Returning,47,3,Churned,At Risk,Bronze
+CUST0129,Priya Pillai,33,Male,Kolkata,Homemaker,Middle,2023-09-22,2026-10-05,2,854.78,1709.56,Home & Kitchen,App,Returning,61,4,Retained,Potential Loyalists,Bronze
+CUST0130,Ira Pillai,41,Non-binary,Bengaluru,Student,Lower-Middle,2026-02-02,2026-09-09,2,822.5,1645.0,Groceries,Online,Returning,73,4,Retained,Potential Loyalists,Bronze
+CUST0131,Karthik Shetty,18,Non-binary,Madurai,IT Professional,Upper-Middle,2023-02-28,2026-04-28,8,1898.55,15188.4,Beauty & Personal Care,Offline,Returning,31,3,At Risk,Need Attention,Gold
+CUST0132,Aarav Krishnan,27,Non-binary,Jaipur,Student,Middle,2025-04-11,2026-10-09,3,521.82,1565.46,Beauty & Personal Care,Online,Returning,42,4,Retained,Potential Loyalists,Bronze
+CUST0133,Varun Patel,38,Non-binary,Ahmedabad,Finance Professional,Upper-Middle,2024-12-08,2026-10-06,2,856.3,1712.6,Electronics,Online,Returning,83,2,Retained,Potential Loyalists,Bronze
+CUST0134,Ira Patel,35,Female,Chennai,Student,High,2026-06-14,2026-09-02,3,723.38,2170.14,Books & Stationery,Online,Returning,60,4,Retained,Potential Loyalists,Bronze
+CUST0135,Priya Chatterjee,26,Prefer not to say,Mumbai,Engineer,Low,2025-03-16,2026-08-19,1,1139.67,1139.67,Beauty & Personal Care,Offline,New,90,3,Retained,New Customers,Bronze
+CUST0136,Pooja Krishnan,45,Non-binary,Kolkata,IT Professional,Upper-Middle,2025-06-01,2026-07-23,3,756.47,2269.41,Groceries,Offline,Returning,81,5,Retained,Potential Loyalists,Bronze
+CUST0137,Meera Bose,18,Non-binary,Bengaluru,Marketing Executive,Middle,2026-01-31,2026-10-10,1,908.42,908.42,Home & Kitchen,App,New,82,4,Retained,New Customers,Bronze
+CUST0138,Krish Bose,40,Non-binary,Hyderabad,Healthcare Professional,Middle,2025-04-02,2026-07-14,10,1010.1,10101.0,Groceries,Offline,Returning,44,3,At Risk,Need Attention,Silver
+CUST0139,Varun Verma,48,Male,Pune,Government Employee,Lower-Middle,2025-03-15,2026-08-01,4,1619.6,6478.4,Beauty & Personal Care,App,Returning,78,3,Retained,Potential Loyalists,Silver
+CUST0140,Kavya Krishnan,30,Female,Pune,Finance Professional,Middle,2025-05-03,2026-08-29,2,1109.98,2219.96,Sports & Fitness,App,Returning,79,3,Retained,Potential Loyalists,Bronze
+CUST0141,Lavanya Kapoor,39,Male,Ahmedabad,IT Professional,Middle,2023-12-16,2026-01-13,1,4200.0,4200.0,Groceries,App,New,58,3,Churned,Hibernating,Bronze
+CUST0142,Ananya Rao,49,Female,Delhi,Finance Professional,Middle,2025-04-25,2025-12-13,6,1125.02,6750.12,Sports & Fitness,App,Returning,6,2,Churned,At Risk,Silver
+CUST0143,Divya Patel,18,Male,Kolkata,Finance Professional,High,2025-09-06,2026-03-07,2,1160.57,2321.14,Home & Kitchen,App,Returning,43,4,Churned,Hibernating,Bronze
+CUST0144,Sanjay Gupta,39,Prefer not to say,Coimbatore,Healthcare Professional,Lower-Middle,2024-09-03,2026-06-13,4,1248.25,4993.0,Beauty & Personal Care,Online,Returning,57,1,At Risk,Need Attention,Bronze
+CUST0145,Vikram Gupta,38,Non-binary,Bengaluru,Government Employee,Middle,2025-02-16,2026-09-20,15,2151.62,32274.3,Electronics,Online,Returning,45,5,Retained,Champions,Platinum
+CUST0146,Saanvi Gupta,39,Prefer not to say,Coimbatore,Healthcare Professional,Upper-Middle,2024-07-09,2026-09-19,8,1120.57,8964.56,Fashion,Online,Returning,83,5,Retained,Loyal Customers,Silver
+CUST0147,Karthik Verma,38,Male,Jaipur,Healthcare Professional,Low,2025-04-26,2026-05-20,1,1614.08,1614.08,Groceries,App,New,34,2,At Risk,At Risk,Bronze
+CUST0148,Diya Mehta,45,Prefer not to say,Delhi,Homemaker,Lower-Middle,2024-08-11,2026-10-08,5,879.32,4396.6,Groceries,App,Returning,73,3,Retained,Loyal Customers,Bronze
+CUST0149,Sanjay Iyer,41,Male,Kochi,Business Owner,High,2023-03-16,2026-03-04,1,1691.74,1691.74,Groceries,Offline,New,61,2,Churned,Hibernating,Bronze
+CUST0150,Vikram Singh,33,Non-binary,Delhi,Homemaker,Middle,2025-10-08,2026-09-20,1,821.95,821.95,Fashion,App,New,64,4,Retained,New Customers,Bronze
